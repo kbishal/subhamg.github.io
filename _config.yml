@@ -18,15 +18,15 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAUtAAAAJDB
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: subham.iitk@gmail.com
+  facebook: subham.iitk
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: subhamg
+  instagram: subham_iitk
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: subham_iitk
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
