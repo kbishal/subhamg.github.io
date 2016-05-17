@@ -1,0 +1,35 @@
+---
+layout: post
+title: IITK New York Office Internship Day 1 : How I created my blog on github ? 
+---
+##### *May 15, 2016*
+
+This is my first blog on github. I started writing a blog because it is the part of my internship. My mentors Shivanshu and proneet told me that they are going to check my everyday progress of the internship via a blog. Through out the internship I am going to write everything about my project so that any person want to do the same project or find something important can take the help from this blog. 
+
+### Prerequisites:
+Before creating the blog, you should have:  
+- [x] Basic familiarity with github, and using the git.  
+- [x] Basic familiartity with mark down.
+
+I head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHub like subham.github.io. After creating the repository I head over to [Jekyll](https://github.com/barryclark/jekyll-now) and download a copy of the blog theme. I have uploaded the copy of the theme to my repository with the following commands in terminal: 
+~~~~
+cd Desktop/subhamg.github.io-master/
+git init
+git remote add origin https://github.com/subhamg/subhamg.github.io.git
+git push -u origin master
+git add .
+git config --global user.email "subham.iitk@gmail.com"
+git config --global user.name "Subham Goyal"
+git commit -m "initial"
+git push -u origin master
+~~~~
+I changed my website’s name, description, avatar and other options by editing the [_config.yml](https://github.com/subhamg/subhamg.github.io/blob/master/_config.yml) file. Published my first blog post by edting /_posts/2014-3-3-Hello-World.md file. To edit this file I used [*Markdown*](https://guides.github.com/features/mastering-markdown/) to style text on the web.
+
+As Adarsh mentioned in ryver that everyone needs to know basic git related commands. I went through the [tutorial](https://try.github.io/levels/1/challenges/1) before coming to the campus. Shivanshu told me to read the basics of HTML,CSS and Javascript. I read about following topics in Mozilla Developer Network:  
+- What’s in the head? Metadata in HTML  
+- HTML text fundamentals  
+- Creating hyperlinks  
+- Advanced text formatting  
+
+I have also done few assesment today.
+
